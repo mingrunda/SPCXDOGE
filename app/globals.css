@@ -1,9 +1,0 @@
-
-body{
-  background: radial-gradient(circle at top,#111,#000);
-  overflow-x:hidden;
-  font-family: Arial;
-}
-.glitch{
-  text-shadow: 2px 2px #ffd000,-2px -2px #00fff7;
-}
